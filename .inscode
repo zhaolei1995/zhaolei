@@ -1,0 +1,1 @@
+run = "javac com/example/demo/DemoApplication.java && java com/example/demo/DemoApplication"
